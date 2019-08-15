@@ -3,6 +3,7 @@ import 'semantic-ui-css/semantic.min.css';
 import {Button, Label} from 'semantic-ui-react';
 import { Math } from 'core-js';
 
+// this is ramdom page
 
 class RamdomNumber extends Component {
     constructor(props) {
