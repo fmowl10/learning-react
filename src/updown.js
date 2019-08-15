@@ -5,6 +5,8 @@ import { Button, Label} from 'semantic-ui-react'
 
 // check https://beomy.tistory.com/33
 
+// Updown
+
 class UpDown extends React.Component {
     
     constructor(props) {
