@@ -5,6 +5,8 @@ import {BrowserRouter as Router, Route, Switch, Link} from 'react-router-dom';
 import UpDown from './updown.js';
 import RandomNumber from './random.js';
 
+// this is index.js for index page
+
 function Home() {
     return (
         <div>
